@@ -2,7 +2,7 @@
 
 **Google Maps verilerini hızlı ve kolay bir şekilde dışa aktarın.**
 
-![GMapsX](maps.png)
+<img width="602" height="636" alt="Ekran görüntüsü 2026-06-30 001354" src="https://github.com/user-attachments/assets/039c493c-5711-4665-8abb-3d4d2427ec86" />
 
 GMapsX, Google Maps'te arama yaparak işletmelerin ad, kategori, puan, yorum sayısı, adres, telefon, website ve Google Maps URL bilgilerini toplayıp Excel, PDF veya TXT olarak dışa aktaran masaüstü uygulamasıdır.
 
