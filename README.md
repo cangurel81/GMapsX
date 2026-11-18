@@ -8,6 +8,19 @@
 
 <img width="602" height="636" alt="Ekran görüntüsü 2026-06-30 001354" src="https://github.com/user-attachments/assets/039c493c-5711-4665-8abb-3d4d2427ec86" />
 
+## 🇬🇧 English (summary)
+
+GMapsX is a Windows desktop app that searches Google Maps for businesses by type and location and
+exports the results — name, category, rating, review count, address, phone, website and Maps URL —
+to Excel, PDF or TSV. CustomTkinter UI, Selenium scraper, 1–20 concurrent threads, 27 UI languages,
+5–200 results per run.
+
+**[Download GMapsX.exe](https://github.com/cangurel81/GMapsX/releases/latest/download/GMapsX.exe)** ·
+Requires Python 3.10+ and Chrome when run from source (`pip install -r requirements.txt`, `python main.py`).
+MIT licensed. For educational and research use only — respect Google's Terms of Service.
+
+---
+
 GMapsX, Google Maps'te arama yaparak işletmelerin ad, kategori, puan, yorum sayısı, adres, telefon, website ve Google Maps URL bilgilerini toplayıp Excel, PDF veya TXT olarak dışa aktaran masaüstü uygulamasıdır.
 
 > ⚠️ **Sorumluluk Reddi:** Bu araç yalnızca eğitim ve araştırma amaçlıdır. Kullanımı tamamen kullanıcının sorumluluğundadır. Google Maps kullanım şartlarını inceleyiniz. Ticari amaçla veya Google'ın hizmet şartlarını ihlal edecek şekilde kullanılması önerilmez.

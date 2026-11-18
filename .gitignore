@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# Paketleme / derleme
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Çıktı dosyaları (Excel / PDF / TXT dışa aktarımları)
+*.xlsx
+*.pdf
+*.txt
+!requirements.txt
+*.log
+output/
+results/
+exports/
+
+# Selenium / Chrome
+chromedriver.exe
+chromedriver
+geckodriver*
+
+# Editör / işletim sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
