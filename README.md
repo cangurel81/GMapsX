@@ -1,5 +1,9 @@
 # GMapsX
 
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=flat&logo=windows)
+![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat&logo=python)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+
 **Google Maps verilerini hızlı ve kolay bir şekilde dışa aktarın.**
 
 <img width="602" height="636" alt="Ekran görüntüsü 2026-06-30 001354" src="https://github.com/user-attachments/assets/039c493c-5711-4665-8abb-3d4d2427ec86" />
@@ -7,6 +11,12 @@
 GMapsX, Google Maps'te arama yaparak işletmelerin ad, kategori, puan, yorum sayısı, adres, telefon, website ve Google Maps URL bilgilerini toplayıp Excel, PDF veya TXT olarak dışa aktaran masaüstü uygulamasıdır.
 
 > ⚠️ **Sorumluluk Reddi:** Bu araç yalnızca eğitim ve araştırma amaçlıdır. Kullanımı tamamen kullanıcının sorumluluğundadır. Google Maps kullanım şartlarını inceleyiniz. Ticari amaçla veya Google'ın hizmet şartlarını ihlal edecek şekilde kullanılması önerilmez.
+
+## ⬇️ İndir
+
+[![Windows için indir](https://img.shields.io/badge/%C4%B0ndir-GMapsX.exe-2ea44f?style=for-the-badge&logo=windows)](https://github.com/cangurel81/GMapsX/releases/latest/download/GMapsX.exe)
+
+Taşınabilir `.exe` — kurulum gerektirmez. İmzasız olduğu için Windows SmartScreen uyarısı gösterebilir: **More info → Run anyway**.
 
 ---
 
